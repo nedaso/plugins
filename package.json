@@ -1,0 +1,23 @@
+{
+  "name": "Habitica",
+  "version": "1.0.0",
+  "description": "Habitica",
+  "main": "index.js",
+  "author": "Neda",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://habitica.com/",
+    "serviceName": "Habitica",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
